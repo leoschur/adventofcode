@@ -1,0 +1,12 @@
+A:\Projekt\adventofcode\day2\target\debug\deps\fancy_regex-683bbbb45a3430bc.rmeta: C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\lib.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\analyze.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\compile.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\error.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\expand.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\parse.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\replacer.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\vm.rs
+
+A:\Projekt\adventofcode\day2\target\debug\deps\fancy_regex-683bbbb45a3430bc.d: C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\lib.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\analyze.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\compile.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\error.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\expand.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\parse.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\replacer.rs C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\vm.rs
+
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\lib.rs:
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\analyze.rs:
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\compile.rs:
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\error.rs:
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\expand.rs:
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\parse.rs:
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\replacer.rs:
+C:\Users\Leo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fancy-regex-0.12.0\src\vm.rs:
