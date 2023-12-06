@@ -14,11 +14,11 @@ fn main() {
         Err(e) => panic!("Can't open {}: {}", display, e),
     };
 
-    let number = Regex::new(r"\d+").unwrap();
-    let special = Regex::new(r"[^0-9.]").unwrap();
-
     let reader = io::BufReader::new(file);
     let mut it = reader.lines();
+
+    let number = Regex::new(r"\d+").unwrap();
+    let special = Regex::new(r"[^0-9.]").unwrap();
 
     let mut sum = 0;
     let mut prev: String = String::new();

@@ -17,9 +17,9 @@ fn main() {
     let reader = io::BufReader::new(file);
 
     let mut sum = 0;
-    let max_red = 12;
-    let max_green = 13;
-    let max_blue = 14;
+    // let max_red = 12;
+    // let max_green = 13;
+    // let max_blue = 14;
 
     let games = Regex::new(r"Game (?P<id>\d+):(?P<drawings>.*)").unwrap();
     let sets = Regex::new(r"(?P<set>[^;\n]+)").unwrap();
@@ -29,7 +29,7 @@ fn main() {
     for line in reader.lines() {
         let l = line.unwrap();
         //  is the game valid or not
-        let mut valid = true;
+        // let mut valid = true;
         let mut red = 0;
         let mut green = 0;
         let mut blue = 0;
