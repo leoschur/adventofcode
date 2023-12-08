@@ -27,7 +27,7 @@ fn value_hand(hand: &str) -> u64 {
         .chars()
         .map(|c| (c, card_to_value(&c)))
         .sorted_by(|a, b| a.1.cmp(&b.1))
-        .map(|(c, num)| c)
+        .map(|(c, _)| c)
         .collect::<String>();
     print!("Hand {}", debug_info);
 
