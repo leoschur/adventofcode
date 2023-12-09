@@ -19,7 +19,11 @@ fn card_to_value(c: &char) -> u64 {
 }
 
 fn value_hand(hand: &str) -> u64 {
-    // print!("\n{}", hand);
+    // the cards value is encoded in 33 bits
+    // Five Four Thre Pair Pair Single  Cards
+    // ---- ---- ---- ---- ---- -------------
+    // Higher combinations are stored in higher valued bits
+    // => larger value wins against lower value
     let mut value = 0u64;
     let mut double = false;
 
